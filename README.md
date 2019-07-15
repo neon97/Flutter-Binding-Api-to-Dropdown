@@ -1,8 +1,7 @@
-import GitHubButton from 'react-github-btn'
 # Binding-Api-to-Dropdown
-<!-- Place this tag where you want the button to render. -->
-<GitHubButton href="https://github.com/ntkme" data-size="large" aria-label="Follow @ntkme on GitHub">Follow @ntkme</GitHubButton>
 
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
       
 Now you can easily bind an api to Dropdwon with just importing a few packages to get the api contents to the dropdown and you send the dropdown item ID to somewhere where ever it may required in future.......
 
