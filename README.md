@@ -1,20 +1,6 @@
 # Binding-Api-to-Dropdown
-<style>
-         .button {
-         background-color: #1c87c9;
-         border: none;
-         color: white;
-         padding: 20px 34px;
-         text-align: center;
-         text-decoration: none;
-         display: inline-block;
-         font-size: 20px;
-         margin: 4px 2px;
-         cursor: pointer;
-         }
-      </style>
-      
-      <a href="https://www.w3docs.com/" class="button">Click Here</a>
+<form action="https://www.w3docs.com/">
+         <button type="submit">Click me</button>
       
 Now you can easily bind an api to Dropdwon with just importing a few packages to get the api contents to the dropdown and you send the dropdown item ID to somewhere where ever it may required in future.......
 
